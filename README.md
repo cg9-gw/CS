@@ -1,3 +1,3 @@
 # CS
  
-Everything I do in CS3.
+Anything I do in CS on my home computer.
